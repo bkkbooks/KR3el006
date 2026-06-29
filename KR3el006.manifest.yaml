@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3el006/v1
+canonical_location: https://kanripo.org/bkk/KR3el006/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷科大成
+  identifiers:
+    krp: KR3el006
+  tags:
+    kr-categories: KR3el
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el006.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3el006_001.yaml
+    hash: sha256:329ed350aa07aba5e38198f4201ded42eb36c1ac77334143e4534787a7e3da96
+table_of_contents: []
+hash: sha256:2bc015524d41ce31c62119cf3099801e94e5b0b08cb062babd047b3bde00ae85

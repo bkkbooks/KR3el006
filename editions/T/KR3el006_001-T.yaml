@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3el006/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷科大成
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el006.xml
+hash: sha256:329ed350aa07aba5e38198f4201ded42eb36c1ac77334143e4534787a7e3da96
